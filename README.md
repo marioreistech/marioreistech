@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marioreistech
 - 👀 I’m interested in exchange experiences
-- 🌱 I’m currently learning exchange experiences
+- 🌱 I’m currently learning new programming languages
 - 💞️ I’m looking to collaborate on clean codes
 - 📫 How to reach me social medias or by email. Thx
 
